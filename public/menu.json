@@ -1,0 +1,36 @@
+{
+  "title": "Hot dishes",
+  "subtitle": "PELLENTESQUE HABITANT MORBI",
+  "dishes": [
+    {
+      "name": "Steak Filet",
+      "description": "Sed quia non numquam eius modi tempora",
+      "price": 130
+    },
+    {
+      "name": "Doner Burger",
+      "description": "Excepteur sint occaecat cupidatat non proident",
+      "price": 130
+    },
+    {
+      "name": "Grill Salmon",
+      "description": "Nemo enim ipsam voluptatem voluptas aspernatur aut",
+      "price": 26
+    },
+    {
+      "name": "Miso chicken",
+      "description": "Fingerling Potatoes, Ossetra Caviar",
+      "price": 26
+    },
+    {
+      "name": "Roast Chicken",
+      "description": "Duis aute irure dolor in reprehenderit voluptate",
+      "price": 130
+    },
+    {
+      "name": "Fried Potatoes",
+      "description": "Excepteur sint occaecat cupidatat non proident",
+      "price": 130
+    }
+  ]
+}

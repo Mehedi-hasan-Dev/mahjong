@@ -1,0 +1,46 @@
+{
+  "title": "Dessert",
+  "subtitle": "AENEAN ULTRICIES MI VITAE EST",
+  "dishes": [
+    {
+      "name": "Toro pie",
+      "description": "Sed quia non numquam eius modi tempora",
+      "price": 23
+    },
+    {
+      "name": "Tarte Tatin",
+      "description": "Sed quia non numquam eius modi tempora",
+      "price": 153
+    },
+    {
+      "name": "Chocolate brownie",
+      "description": "Fingerling Potatoes, Ossetra Caviar",
+      "price": 87
+    },
+    {
+      "name": "Banana Cream",
+      "description": "Sed quia non numquam eius modi tempora",
+      "price": 211
+    },
+    {
+      "name": "Creme Brulee",
+      "description": "Fingerling Potatoes, Ossetra Caviar",
+      "price": 26
+    },
+    {
+      "name": "Cheese Board",
+      "description": "Sed quia non numquam eius modi tempora",
+      "price": 45
+    },
+    {
+      "name": "Lemon Meringue",
+      "description": "Sed quia non numquam eius modi tempora",
+      "price": 211
+    },
+    {
+      "name": "Wildberry",
+      "description": "Sed quia non numquam eius modi tempora",
+      "price": 211
+    }
+  ]
+}
