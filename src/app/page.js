@@ -12,6 +12,10 @@ import ReservationForm from "@/components/ReservationForm";
 import ContactSection from "@/components/ContactSection";
 import Footer from "@/components/Footer";
 
+export const metadata = {
+  title: "Mahjong",
+};
+
 export default function Home() {
   return (
     <>
